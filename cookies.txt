@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.yolacdn.net	TRUE	/	FALSE	1999999999	__cfduid	da8a81215eb24e12e83f4ffff60fd797b1581789329
+analytics.yolacdn.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
